@@ -1,0 +1,16 @@
+[
+  {
+    "title": "birthday",
+    "date": "2025-07-15",
+    "time": "1:00",
+    "location": "party",
+    "notes": "asdfasdf"
+  },
+  {
+    "title": "doctor",
+    "date": "2025-07-10",
+    "time": "12:34",
+    "location": "hospital",
+    "notes": "Test notes"
+  }
+]
